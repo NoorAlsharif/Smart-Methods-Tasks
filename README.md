@@ -7,3 +7,9 @@ task includes:
 
 ## example output
 ![image](https://user-images.githubusercontent.com/71409736/123864745-c6fd9880-d933-11eb-8a85-85660f3a2f39.png)
+
+## HTML / CSS / JavaScript
+
+## Database
+
+## PHP
