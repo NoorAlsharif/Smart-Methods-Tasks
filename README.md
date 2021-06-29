@@ -10,7 +10,8 @@ task includes:
 
 ## Mockup Design
 ### using Adobe XD
-![Uploading image.png…]()
+![3](https://trello-attachments.s3.amazonaws.com/60c6271efc4cd828402e53ed/60c8cea47303af5d3b442fa8/01c5ac7818ca404ba23f8d16495d64ff/Screen_Shot_2021-06-16_at_4.13.22_AM.png)
+
 
 ## HTML / CSS / JavaScript
 ### in netbeans IDE
