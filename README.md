@@ -10,6 +10,7 @@ task includes:
 
 ## Mockup Design
 ### using Adobe XD
+![Uploading image.png…]()
 
 ## HTML / CSS / JavaScript
 ### in netbeans IDE
