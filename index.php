@@ -17,12 +17,13 @@ and open the template in the editor.
                 background-color: darkblue;
                 background-image: url("backg.png");
                 background-attachment: fixed;
+                margin-bottom: 10%;
 
             }
 
             header {
                 margin-top: 20px;
-                /*margin-bottom: 20px;*/
+                margin-bottom: 20px;
             }
 
             h1 {
@@ -56,11 +57,13 @@ and open the template in the editor.
             /* Robotic Arm Range */
             div.rangeContainer {
                 border-radius: 80px;
-                background-image: linear-gradient(white, white, white, rgba(0,0,0,0));
-                height: 600px;
+                background-image: linear-gradient(white, white, rgba(0,0,0,0));
+                height: 585px;
                 width: 50%;
                 margin-right: 1%;
-                /*margin-left: 1%;
+                margin-left: 1%;
+                
+                /*
                 margin-top: 1%;
                 margin-bottom: 1%;
                 /*height: 100%;*/
@@ -143,9 +146,10 @@ and open the template in the editor.
             /* Action Buttons */
             .buttondiv {
                 /*margin-bottom: 1%;*/
-                margin-left: 1%;
-                /*text-align: right;*/
-
+                margin-left: 20%;
+                margin-right: auto;
+                
+                
             }
 
             button.general {
@@ -159,7 +163,7 @@ and open the template in the editor.
                 font-weight: bold;
                 color: white;
                 display: block;
-                margin-bottom: 50px;
+                margin-bottom: 20px;
                 text-shadow: -2px 2px #332D2D;
 
 
@@ -189,7 +193,7 @@ and open the template in the editor.
         <!-- Interface Header -->
         <header align="center" >
             <h1 style="font-family: Helvetica; font-size: 80px; color: white; text-shadow: 2px 8px #000000; margin-bottom: 5px;">FIGHTING ROBOTS</h1>
-            <h2 style="font-family: Helvetica; font-size: 40px; color: white; text-shadow: 2px 4px #000000;" >Robotic Arm Ranges</h2>
+            <h2 style="font-family: Helvetica; font-size: 40px; color: white; text-shadow: 2px 4px #000000; margin-top: auto; margin-bottom: 5px;" >Robotic Arm Ranges</h2>
         </header>
 
 
@@ -302,7 +306,7 @@ and open the template in the editor.
 
 
 
-        <!-- Robot Direction Control -->
+        <!-- Robot Direction Control 
         <div class="directionContainer" >
              
             <div class="directions" style="margin-top: 80px;">
@@ -323,18 +327,21 @@ and open the template in the editor.
             
 
         </div>
+        -->
 
 
         <!-- Robot Action Buttons -->
         <div class="buttondiv">
 
-            <button class="general" style="background-image: linear-gradient(to right, #B8EDE7, #218D7F);">Start</button>
+            <button class="general" style="background-image: linear-gradient(to left, #B8EDE7, #218D7F);">Start</button>
 
-            <button class="general" style="background-image: linear-gradient(to right, #FF9D9D, #BC2424);">Stop</button>
+            <!--<button class="general" style="background-image: linear-gradient(to left, #FF9D9D, #BC2424);">Robot Base Movement</button>-->
 
-            <button class="general" style="background-image: linear-gradient(to right, #B6E7FD, #0089C7); ">Save</button>
+            <button class="general" style="background-image: linear-gradient(to left, #B6E7FD, #0089C7); ">Save</button>
+            
+            <button class="general" style="background-image: linear-gradient(to left, #FF9D9D, #BC2424); font-size: 25px; font-stretch:ultra-condensed;">Robot Base Movement</button>
 
-            <input class="general, input2button" style="background-image: linear-gradient(to right, #D8D8D8, #747474);" id="reset" type="button" value="Reset">
+            <input class="general, input2button" style="background-image: linear-gradient(to left, #D8D8D8, #747474);" id="reset" type="button" value="Reset">
 
             <!-- Resetting Motor Ranges -->
             <script>
