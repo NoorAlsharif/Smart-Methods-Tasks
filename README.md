@@ -16,15 +16,24 @@ task includes:
 ## HTML / CSS / JavaScript
 ### in netbeans IDE
 I first started outlining the website with HTML. Then, i started adding in the design features.
+HTML code is completed.
+css is added.
+javascript has been utilized for the range values and the clear button.
+
 recources used: 
 - [W3schools HTML] (https://www.w3schools.com/html/)
 - [W3schools CSS] (https://www.w3schools.com/css/)
 - [W3schools JS] (https://www.w3schools.com/js/)
 
 ## Database
-### MySQL
+### MySQL / PHPmyAdmin
+still working on the database.
+tables are semi-complete.
 
 ## PHP
 ### in netbeans IDE
+need to tie in some php to the code
 
 ## Output
+the interface is complete.
+sliders are working perfectly as well as the reset button.
