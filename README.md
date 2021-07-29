@@ -1,4 +1,4 @@
-# Speach-To-Text for Chatbot
+# STT & TTS for Chatbot
 task includes:
 1. Use python language in IBM Watson to convert speech to text & text to speech
 2. Save the output text from (STT) as .txt file
