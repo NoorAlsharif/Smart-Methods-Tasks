@@ -26,3 +26,5 @@ task includes:
 ## Output Text from the Audio
 ![](https://trello-attachments.s3.amazonaws.com/60c6271efc4cd828402e53ed/610215eadfa4ec80ccaff073/8e1cf1d06dad397b993bb8a49defe8ef/output_text.png)
 
+# 2- TTS
+
